@@ -2,7 +2,6 @@
 " https://dougblack.io/words/a-good-vimrc.html
 
 " Generally helpful
-filetype plugin indent on
 syntax on
 set encoding=utf-8
 " Maps system keyboard to Vim's paste buffer
