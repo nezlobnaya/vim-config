@@ -22,9 +22,6 @@ set cursorline
 
 filetype indent on      " load filetype-specific indent files
 
-" visual autocomplete for command menu
-set wildmenu
-
 " Search
 " As letters are typed in
 set incsearch
