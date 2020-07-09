@@ -1,9 +1,6 @@
 " danielmiessler.com/study/vim/
 " https://dougblack.io/words/a-good-vimrc.html
 
-" Set leader to spacebar
-let mapleader = " "
-
 " Generally helpful
 filetype plugin indent on
 syntax on
