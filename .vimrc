@@ -1,6 +1,9 @@
 " danielmiessler.com/study/vim/
 " https://dougblack.io/words/a-good-vimrc.html
 
+" Wrap text at character limit
+set textwidth=72
+
 " Generally helpful
 syntax on
 set encoding=utf-8
