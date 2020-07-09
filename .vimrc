@@ -20,8 +20,6 @@ set showcmd
 " Highlight line where cursor is
 set cursorline
 
-filetype indent on      " load filetype-specific indent files
-
 " Search
 " As letters are typed in
 set incsearch
