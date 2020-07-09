@@ -1,9 +1,6 @@
 " danielmiessler.com/study/vim/
 " https://dougblack.io/words/a-good-vimrc.html
 
-" Don't allow leaving insert mode using escape key. Instead use jk  
-inoremap jk <ESC>
-
 " Set leader to spacebar
 let mapleader = " "
 
