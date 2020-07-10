@@ -1,6 +1,13 @@
 " danielmiessler.com/study/vim/
 " https://dougblack.io/words/a-good-vimrc.html
 
+" Always display the current cursor position in the lower right
+" of the vim window
+set ruler
+
+" Highlight characters after a certain width
+set colorcolumn=51,73
+
 " Wrap text at character limit
 set textwidth=72
 
